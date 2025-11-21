@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Why is crop rotation important in farming?",
+        "answer": "It helps prevent soil erosion and depletion, and also helps control pests and diseases."
+    },
+    {
+        "question":"Which farming practice helps prevent soil erosion?",
+        "answer":"Crop rotation"
+    },
+    {
+        "question":"What is crop rotation?",
+        "answer":"Crop rotation is the practice of growing a series of different crops in the same area over several seasons."
+    },
+    {
+        "question":"What are the different methods of irrigation?",
+        "answer": "Surface irrigation, drip irrigation, and sprinkler irrigation"
+    },
+    {
+    "question": "Why is soil health important?",
+    "answer": "Soil health is important for crop growth and productivity, as it provides the necessary nutrients and support for plants to thrive."
+},
+{
+    "question": "What is the cause of soil degradation?",
+    "answer": "Erosion, compaction, and nutrient depletion"
+},
+{
+    "question": "What is organic farming?",
+    "answer": "A method of crop production that emphasizes the use of natural and sustainable practices, such as crop rotation, composting, and biological pest control."
+},
+{
+    "question": "What is the importance of organic farming?",
+    "answer": "This approach seeks to reduce the use of synthetic chemicals and promote the health of the soil and environment."
+},
+{
+    "question": "What crop is the main food source in Africa?",
+    "answer": "Cassava"
+},
+{
+    "question": "What is the major cassava disease?",
+    "answer": "Cassava Mosaic Disease (CMD)"
+},
+{
+    "question": "What are the different cassava diseases?",
+    "answer": "Cassava"
+},
+{
+    "question": "What are the signs and symptoms of CBB disease?",
+    "answer": "This disease causes leaves to wilt, yellow, and the stems and roots to rot."
+},
+{
+"question": "What are the sustainable approaches for cassava disease management?",
+"answer": "Breeding disease-resistant varieties and using natural pest control methods."
+},
+{
+"question": "What disease does the white fly transmit?",
+"answer": "Whiteflies can spread viruses such as CMD and CBSD, which can cause great losses to farmers."
+},
+{
+"question": "What is irrigation?",
+"answer": "Irrigation is the process of applying water to crops to help them grow."
+},
+{
+"question": "What is organic fertilizer?",
+"answer": "Organic fertilizer, which is made from natural materials such as manure and compost."
+},
+{
+"question": "What is fertilizer?",
+"answer": "Fertilizers are substances added to the soil to improve the growth and quality of crops."
+},
+{
+"question": "Why are fertilizers used in farming?",
+"answer": "To improve crop growth and quality."
+},
+{
+"question": "What type of chemical fertilizer is there?",
+"answer": "Synthetic fertilizer"
+},
+{
+"question": "What is pest management?",
+"answer": "Pest management is the practice of controlling pests and diseases that damage crops."
+},
+{
+"question": "What are the different methods of pest management?",
+"answer": "Biological control, cultural control, and chemical control."
+},
+{
+"question": "How has climate change affected agriculture?",
+"answer": "Changes in temperature, rainfall, and weather patterns."
+},
+{
+"question": "What are the effects of climate change?",
+"answer": "Reduced crop yield, increased pest and disease pressure, and other challenges for farmers."
+},
+{
+"question": "What is crop protection?",
+"answer": "Crop protection refers to the various methods used to protect crops from pests, diseases, and other threats."
+},
+{
+"question": "What practices are used for crop protection?",
+"answer": "The use of pesticides, fungicides, and other chemicals, as well as cultural practices."
+},
+{
+"question": "Give two cultural crop protection practices.",
+"answer": "Crop rotation and intercropping."
+},
+{
+"question": "What is GMO in full?",
+"answer": "Genetically Modified Crop"
+},
+{
+"question": "Define what a GMO is?",
+"answer": "GMOs are crops that have been genetically modified to increase resistance to pests and diseases, as well as to improve their nutritional value and other characteristics."
+},
+{
+"question": "What concerns have recently been raised about GMOs?",
+"answer": "Safety and potential environmental impacts."
+},
+{
+"question": "How can I define precision agriculture?",
+"answer": "Precision agriculture is the use of technology to optimize crop production and minimize waste."
+},
+{
+"question": "What types of equipment are used in precision agriculture?",
+"answer": "Sensors, drones, and other equipment."
+},
+{
+"question": "What kind of information is collected by the tools used in precision agriculture?",
+"answer": "Soil moisture, nutrient levels, and other factors."
+},
+{
+"question": "How can the information collected for precision agriculture be used?",
+"answer": "To make more informed decisions about planting and harvesting."
+},
+{
+"question": "What is Integrated Pest Management?",
+"answer": "IPM is a holistic approach to pest management that emphasizes the use of multiple methods to control pests, including biological control, cultural control, and chemical control."
+},
+{
+"question": "Why is Integrated Pest Management used?",
+"answer": "To reduce the use of pesticides and other chemicals, while still effectively controlling pests and diseases."
+},
+{
+"question": "What causes plant diseases?",
+"answer": "Various types of pathogens including fungi, bacteria, viruses, and nematodes."
+},
+{
+"question": "How to control plant diseases?",
+"answer": "Using pesticides and other measures to control them."
+},
+{
+"question": "How can I increase the yield of my potato crop?",
+"answer": "Potato yield can be increased by taking steps to improve soil fertility, such as using organic matter and maintaining an appropriate soil pH."
+},
+{
+"question": "What is the best way to store harvested wheat to prevent spoilage?",
+"answer": "Harvested wheat should be stored carefully to prevent spoilage and maintain quality."
+},
+{
+"question": "What is the best time of the year to plant soybeans in the Midwest?",
+"answer": "Between late April and mid-May."
+},
+{
+"question": "What is the most popular crop in the Midwest?",
+"answer": "Soybean"
+},
+{
+"question": "What is the percentage of moisture content before storage?",
+"answer": "13.5% or less."
+},
+{
+"question": "How can I control the spread of fungal disease on my tomato plants?",
+"answer": "Ensure good air flow around the plants by spacing them correctly and pruning as needed. Additionally, using a fungicide can help control fungal growth. It is also important to avoid overhead watering, which can spread the disease by splashing from one plant to another."
+},
+{
+"question": "What is the recommended fertilizer amount for growing strawberries in sandy soil?",
+"answer": "Generally, a balanced fertilizer with an NPK ratio of 10-10-10 is recommended for sandy soil. However, the exact dosage may vary depending on the specific soil conditions and the age of the plants."
+},
+{
+"question": "How can I prevent soil erosion in my field?",
+"answer": "Planting cover crops, using conservation tillage practices, and building contour terraces. It is also important to avoid overgrazing and to maintain vegetation along streams and other waterways to prevent bank erosion."
+},
+{
+"question": "What are some common pests that attack apple trees and how can I control them?",
+"answer": "Codling moth, apple maggots, and aphids. To control these pests, it is important to regularly monitor the trees and take action as soon as signs of infestation are seen."
+},
+{
+"question": "What other methods can be used to control apple tree pests?",
+"answer": "Using pheromone traps, applying insecticides, or using natural predators such as ladybugs."
+},
+{
+"question": "How do I know when my maize is ready for harvest?",
+"answer": "Maize is generally ready for harvest when the kernels are firm and have reached their full size, and the ears look mature."
+},
+{
+"question": "How do I check for maize maturity?",
+"answer": "Test the kernel moisture content using a moisture meter. Additionally, the husks on the ears should be brown and dry."
+},
+{
+"question": "What are some sustainable farming practices that can help minimize environmental impact?",
+"answer": "Sustainable agriculture practices can help."
+},
+{
+"question": "What are some common pests that affect maize crops?",
+"answer": "Maize borer, armyworm, and rootworm."
+},
+{
+"question": "What is the ideal planting density for maize?",
+"answer": "The ideal planting density for maize can vary based on specific climate and soil conditions. Generally, a planting density of about 70,000 to 80,000 plants per hectare is recommended for optimal yield. However, the ideal density may vary based on factors such as the variety of maize planted and the availability of water and nutrients."
+},
+{
+"question": "How can I improve the quality of my grapes for winemaking?",
+"answer": "The quality of grapes can be improved through careful management of the vines, such as proper pruning and trellising. Additionally, thinning the grape clusters can also help ripen the fruit and improve quality."
+},
+{
+"question": "In what year did apple farming start in Uganda?",
+"answer": "1999"
+},
+{
+"question": "What type of soil is suitable for growing beans?",
+"answer": "Beans require well-drained soil with a pH level between 6.0 and 7.5."
+},
+{
+"question": "How should the soil be prepared before planting beans?",
+"answer": "The soil should be prepared by removing weeds and incorporating organic materials such as compost or manure to improve soil fertility."
+},
+{
+"question": "What is the recommended pH range of soil used for growing beans?",
+"answer": "Between 6.0 and 7.5."
+},
+{
+"question": "What are some common pests and diseases that affect beans and how can they be managed?",
+"answer": "Common pests include aphids, thrips, and spider mites, while diseases like bacterial blight and rust can also affect the crop. Pest and disease management generally involves the use of chemical or organic pesticides and fungicides, as well as proper crop rotation to minimize the risk of infection."
+},
+{
+"question": "When is the best time to harvest beans and how is it determined?",
+"answer": "When the pods turn yellow and dry."
+},
+{
+"question": "What is field curing and why is it important for bean crops?",
+"answer": "Leaving the beans to dry in the sun is called field curing."
+},
+{
+"question": "What is threshing?",
+"answer": "Separating the beans from the pod and other debris."
+},
+{
+"question": "How is threshing done for bean crops?",
+"answer": "Manually or by using machines such as threshers or combines."
+},
+{
+"question": "What is post-harvest management?",
+"answer": "Proper storage conditions."
+},
+{
+"question": "What other techniques can help preserve the quality of beans?",
+"answer": "The use of hermetic storage bags or containers."
+},
+{
+"question": "What is the correct spacing for beans when planting?",
+"answer": "About 2-4 inches apart."
+},
+{
+"question": "What is the ideal storage temperature for beans?",
+"answer": "Between 10-15°C."
+},
+{
+"question": "Should grapes be harvested?",
+"answer": "When they reach their full flavor and sugar content, but before they overripe."
+},
+{
+"question": "Why is post-harvest management important for preserving the quality of beans?",
+"answer": "To prevent mold growth and insect infestation."
+},
+{
+"question": "How are beans planted?",
+"answer": "Seeds are planted at a depth of 1-2 inches and spaced 2-4 inches apart in rows."
+},
+{
+"question": "What is maize and why is it important?",
+"answer": "Maize, also known as corn, is one of the most widely cultivated crops in the world, and is a staple food in many regions."
+},
+{
+"question": "What are the suitable conditions for planting maize?",
+"answer": "Maize requires well-drained soil with a pH level between 5.5 and 7.5. The site should also receive full sunlight to promote optimal growth."
+},
+{
+"question": "How is maize planting done?",
+"answer": "Maize seeds are planted either by hand or by machine, depending on the scale of the operation."
+},
+{
+"question": "What is the spacing between plants and rows?",
+"answer": "A spacing of 20-30 centimeters between plants and 60-75 centimeters between rows."
+},
+{
+"question": "What is necessary to facilitate plant growth during the germination process?",
+"answer": "To ensure adequate moisture levels during the germination process."
+},
+{
+"question": "What are the common pests and diseases that affect maize?",
+"answer": "Armyworms, cutworms, and aphids, while diseases like maize smut and brown leaf spot can also affect the crop."
+},
+{
+"question": "How can pests and diseases be managed on maize plants?",
+"answer": "The use of chemical or organic pesticides and fungicides, as well as proper crop rotation to minimize the risk of infection."
+},
+{
+"question": "When is the appropriate time to harvest maize?",
+"answer": "Harvesting is generally done when the kernels are fully developed and hard, and the husks are dried and brown."
+},
+{
+"question": "How are the plants harvested?",
+"answer": "By hand or by machine."
+},
+{
+"question": "What is the process of drying and threshing maize?",
+"answer": "Post-harvest management."
+},
+{
+"question": "How is maize stored after harvest?",
+"answer": "The use of hermetic storage bags or containers."
+},
+{
+"question": "What are the suitable storage conditions for maize to prevent mold growth and insect infestation?",
+"answer": "Temperatures between 10-15°C."
+},
+{
+"question": "In which district of Uganda were apples first found?",
+"answer": "Kabale District"
+},
+{
+"question": "What other areas in Uganda grow apples?",
+"answer": "Bugisu, Bukedi, and Sebei sub-regions in the areas around Mount Elgon."
+},
+{
+"question": "What are some challenges of growing apples?",
+"answer": "Apple seedlings are imported and expensive\nBirds and thieves are giving many farmers sleepless nights.\nFew regions are favorable for apple growing\nHigh competition with imported apples\nMarket"
+},
+{
+"question": "What is the Fall Armyworm, and why is it a concern for farmers in Uganda?",
+"answer": "The Fall Armyworm, in particular, is a major concern for farmers because it is highly invasive, can reproduce quickly, and can cause significant crop damage."
+},
+{
+"question": "When was the Fall Armyworm first detected in Uganda?",
+"answer": "2016"
+},
+{
+"question": "Which crops are more susceptible to the Armyworm outbreak in Uganda?",
+"answer": "Maize, sorghum, millet, and rice."
+},
+{
+"question": "What is the potential crop loss due to the Armyworm outbreak?",
+"answer": "Its outbreak can lead to yield losses of up to 50% and, in some cases, total crop failure."
+},
+{
+"question": "How is the spread of Armyworms facilitated and why is it challenging to control their spread?",
+"answer": "The spread of Armyworms is facilitated by their ability to fly long distances, which makes their spread difficult to control. The pest can also survive in crop residues, making it challenging to completely eradicate them."
+},
+{
+"question": "What are some methods used by farmers in Uganda to control Armyworms?",
+"answer": "Early detection, biological control, chemical control, crop rotation, and cultural control."
+},
+{
+"question": "When do I harvest the cassava plant?",
+"answer": "When the plants achieve full physiological maturity."
+},
+{
+"question": "What types of fertilizers can be used on maize?",
+"answer": "DAP, NPK, and CAN."
+},
+{
+"question": "Are you testing cassava?",
+"answer": "There are various tests that can be done on cassava, such as testing for viruses."
+},
+{
+"question": "How long does it take from planting to harvest season for beans?",
+"answer": "75 to 90 days depending on the variety."
+},
+{
+"question": "Is there a maize market?",
+"answer": "There are many markets available but all depend on where you are based. Where are you based?"
+},
+{
+"question": "In growing Irish potatoes, using row planting versus holes, which one conserves fertilizer?",
+"answer": "Row planting"
+},
+{
+"question": "Where do I submit my answer?",
+"answer": "Right here."
+},
+{
+"question": "What is the impact of reliable rainfall?",
+"answer": "Improved crop yield, better soil health, increased biodiversity, reduced risk of drought, and improved water quality."
+},
+{
+"question": "When can Calcium Ammonium Nitrate (CAN) be used on maize?",
+"answer": "2-3 weeks after planting or when the crop is approximately 45 centimeters tall."
+},
+{
+"question": "Is there a maize market?",
+"answer": "Nakasero Market"
+},
+{
+"question": "What is the major maize-producing district in Uganda?",
+"answer": "Masindi, Kapchorwa, Kasese, Jinja, Kabarole, and Mbale."
+},
+{
+"question": "Is maize growth affected by altitude?",
+"answer": "An expert will reach out to assist."
+},
+{
+"question": "What is seed dormancy?",
+"answer": "Seed dormancy is a condition in which a seed fails to germinate even under environmental conditions that are normally favorable for germination."
+},
+{
+"question": "What is the best weather for beans?",
+"answer": "Beans prefer warm weather, plant at least one week after the last spring frost."
+},
+{
+"question": "What is the required soil pH for beans?",
+"answer": "Between 6.0 and 7.0."
+},
+{
+"question": "Name two types of beans found in the garden",
+"answer": "Bush beans and pole beans."
+},
+{
+"question": "Which type of soil works well?",
+"answer": "Well-drained loam soil."
+},
+{
+"question": "Name the factors causing seed dormancy",
+"answer": "Mechanical restraints, chemical inhibitors, immature embryos, scarification requirements, and environmental cues."
+},
+{
+"question": "How can couch grass be effectively controlled from a cassava garden?",
+"answer": "Hand pulling, mulching, herbicides, and tillage."
+},
+{
+"question": "What is Thiram?",
+"answer": "Thiram is a fungicide used to control seed-borne and soil-borne fungal diseases such as damping-off, seed rot, and seedling blight."
+},
+{
+"question": "Which common chemical is used for seed dressing?",
+"answer": "Phenylmercuric Acetate"
+},
+{
+"question": "What is soil fertility?",
+"answer": "Soil fertility is the capacity of the soil to sustain plant growth and optimize crop yield."
+},
+{
+"question": "Which agricultural method can be used to improve soil fertility?",
+"answer": "Adding organic matter to the soil and including cover crops."
+},
+{
+"question": "What is the recommended spacing for cassava?",
+"answer": "A spacing of 1.0 m x 1.0 m (3 ft x 3 ft) is commonly used for planting cassava."
+}
+]
